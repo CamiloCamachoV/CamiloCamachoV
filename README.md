@@ -1,47 +1,45 @@
-# Hi, I'm Camilo Camacho
+<div align="center">
 
-Welcome to my GitHub profile. I’m a software developer passionate about building useful, well-crafted digital experiences and solving real-world problems with code.
+# Cam
 
-## About Me
+### Software Developer · Curious by nature · Always building
 
-I enjoy creating software that is practical, efficient, and easy to maintain. My work is driven by curiosity, continuous learning, and the desire to turn ideas into products that people can actually use.
+I turn ideas into useful, thoughtful software — learning with every project and improving with every iteration.
 
-I am especially interested in:
+[GitHub](https://github.com/CamiloCamachoV)
 
-- Software development and clean engineering practices
-- Building web applications and user-focused experiences
-- Learning new technologies and improving my skills
-- Collaborating on meaningful projects and growing with others
+</div>
 
-## What I Do
+---
 
-I like working on projects that combine logic, creativity, and impact. Whether it is frontend, backend, or full-stack development, I enjoy learning by building and improving through iteration.
+## A little about me
 
-## Tech Stack
+I’m Cam, a software developer who enjoys solving problems with code and making digital experiences feel clear, practical, and polished. I’m driven by curiosity, continuous learning, and the satisfaction of turning an idea into something people can use.
 
-I work with a variety of tools and technologies, including:
+I enjoy exploring both frontend and backend development, collaborating on meaningful projects, and finding better ways to build reliable, maintainable software.
 
-- Languages: JavaScript, TypeScript, Python, SQL
-- Frontend: HTML, CSS, React, Next.js
-- Backend: Node.js, Express, REST APIs
-- Tools: Git, GitHub, VS Code, Docker
-- Other: Responsive design, API integration, debugging, testing
+## What I’m exploring
 
-## Current Focus
+- Building useful web applications and real-world projects
+- Growing as a full-stack developer
+- Improving my approach to clean, maintainable code
+- Learning modern tools, technologies, and development practices
 
-- Improving my full-stack development skills
-- Building practical, real-world projects
-- Exploring modern development workflows and best practices
-- Continuing to learn and grow as a developer
+## Tools I work with
 
-## Goals
+**Languages**  JavaScript · TypeScript · Python · SQL  
+**Frontend**  HTML · CSS · React · Next.js  
+**Backend**  Node.js · Express · REST APIs  
+**Tools**  Git · GitHub · VS Code · Docker
 
-I want to keep creating software that is useful, scalable, and meaningful. I value continuous learning, writing maintainable code, and contributing to projects that make a positive difference.
+## A guiding principle
 
-## Connect
+> Keep learning. Keep building. Make each project a little better than the last.
 
-- GitHub: [@CamiloCamachoV](https://github.com/CamiloCamachoV)
+---
 
-> “I’m always learning, building, and looking for opportunities to grow as a developer.”
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloCamachoV&show_icons=true&theme=dark)
+Thanks for stopping by. Feel free to explore what I’m working on.
+
+</div>
